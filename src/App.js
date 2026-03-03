@@ -111,8 +111,8 @@ function App() {
           <span className="user-badge">Hello, {user.fullName || user.username}</span>
         </div>
         <nav>
-          <button onClick={() => setView('calendar')}>Calendar View</button>
-          <button onClick={() => setView('list')}>Event List</button>
+          <button onClick={() => setView('calendar')}>Calendar</button>
+          <button onClick={() => setView('list')}>Events</button>
           <button onClick={handleLogout} className="btn-logout">Logout</button>
         </nav>
       </header>
