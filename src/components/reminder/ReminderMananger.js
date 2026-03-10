@@ -1,4 +1,5 @@
-import React, { useEffect } from 'react';
+// import React, { useEffect } from 'react';
+import useEffect from 'react';
 
 const ReminderMananger = ({ events, onComplete, notify }) => {
     useEffect(() => {
