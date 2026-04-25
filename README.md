@@ -1,6 +1,6 @@
-# Event Manager (Calendar Pro) - Frontend
+# Event Manager (Calendar Pro) - Fullstack Application
 
-This is the frontend application for the Event Manager (Calendar Pro) project, built with React. It provides a comprehensive user interface to manage personal events, scheduling, and calendar functionalities, ensuring you never miss a beat.
+This is a fullstack application for the Event Manager (Calendar Pro) project, built with React and Spring Boot. It provides a comprehensive user interface to manage personal events, scheduling, and calendar functionalities, ensuring you never miss a beat.
 
 ## 🔗 Live Demo
 - **Frontend App**: [https://event-manager-pogwhu8n5-kaviyashreegs-projects.vercel.app](https://event-manager-pogwhu8n5-kaviyashreegs-projects.vercel.app)
